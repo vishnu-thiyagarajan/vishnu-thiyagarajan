@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... bit.dev
 - 🤔 I’m looking for help with ... Deployment
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Whatsapp](whatsapp://send?text=Hi Vishnu!&phone=+919655495432)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/vishnu-thiyagarajan-2aa6a6129/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish
