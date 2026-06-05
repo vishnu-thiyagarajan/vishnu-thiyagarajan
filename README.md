@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Vishnu Thiyagarajan
 
-**Full Stack Engineer · Dubai, UAE · 7.5 Years Building Things That Scale**
+**Full Stack Engineer · Dubai, UAE · 8 Years Building Things That Scale**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
